@@ -1,3 +1,3 @@
 public static void main ( String [] args) {
-Syste,out.println("java");
+System.out.println("java");
 }
