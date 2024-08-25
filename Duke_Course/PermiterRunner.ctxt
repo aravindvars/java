@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PermiterRunner
+comment0.text=\n\ Write\ a\ description\ of\ PermiterRunner\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=s
+comment1.target=double\ getPermiter(edu.duke.Shape)
+comment2.params=
+comment2.target=void\ testPerimeter()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
